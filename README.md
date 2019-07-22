@@ -1,6 +1,8 @@
 # Module 3 / Problem Set 3
 
-This repository contains all of files you need to complete Problem Set 3. The instructions for each problem can be found in each of the Python files.
+This repository contains all of files you need to complete Problem Set 3.
+
+The instructions for each problem can be found in each of the Python files.
 
 This repository contains 4 files:
 
